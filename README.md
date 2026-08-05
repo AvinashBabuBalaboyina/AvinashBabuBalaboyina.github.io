@@ -190,7 +190,7 @@ font-weight:bold;
 <div class="contact">
 📧 <a href="mailto:Prince.avi10@gmail.com">Prince.avi10@gmail.com</a> |
 <a href="mailto:avibabu510@gmail.com">avibabu510@gmail.com</a><br>
-📞 7032122805 | Telangana <br>
+📞 ********05 | Telangana <br>
 🔗 <a href="https://www.linkedin.com/in/avinash-balaboyina-337b2a32b" target="_blank">
 LinkedIn Profile
 </a>
